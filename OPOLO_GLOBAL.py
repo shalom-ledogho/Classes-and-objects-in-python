@@ -82,4 +82,3 @@ class Member:
         print(f"Grades: {self.member_grade}")
         print(f"Average Grade: {self.calculate_average():.2f}")
 
-#print("hello world")
